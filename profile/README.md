@@ -21,7 +21,7 @@ go [here](https://github.com/micro-manager/micro-manager/tree/main/governance)**
 
 * [pymmcore](https://github.com/micro-manager/pymmcore). Exports MMCore to Python
 
-* [micro-manager.github.io](https://github.com/micro-manager.github.io). Source code for the [micro-manager website](https://micro-manager.org)
+* [micro-manager.github.io](https://github.com/micro-manager/micro-manager.github.io). Source code for the [micro-manager website](https://micro-manager.org)
 
 
 ## Python compatility
