@@ -15,7 +15,7 @@ go [here](https://github.com/micro-manager/micro-manager/tree/main/governance)**
 
 ## Repositories
 
-* [mmCoreAndDevices](https://github.com/micro-manager/mmCoreAndDevices) contains the hardware abstraction layer (MMCore) and device adapters (modules that translate between the actual hardware and MMCode.  These are all written in C++. Also containe the code to export MMCore to Java (MMCoreJ).
+* [mmCoreAndDevices](https://github.com/micro-manager/mmCoreAndDevices) contains the hardware abstraction layer (MMCore) and device adapters (modules that translate between the actual hardware and MMCore. These are all written in C++. Also containes the code to export MMCore to Java (MMCoreJ).
 
 * [micro-manager](https://github.com/micro-manager/micro-manager). The source code to the Java user interface. 
 
